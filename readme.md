@@ -23,6 +23,8 @@ OpenSCAD code for generating the model of the enclosure is in [ultimax_15_vented
 
 ## Panel sizes
 
+For 19mm plywood
+
 * Port panels x4: 443 x 217.605 - should be 179.605 wide on short side of bevel
 * Bottom: 748 x 628
 * Top: 748 x 628
@@ -71,8 +73,22 @@ Metrics:
 
 Results from modelling in WinISD
 
+### Transfer magnitude function
+
 ![Transfer magnitude function](transfer_magnitude_function.jpg)
+
+### SPL
+
 ![Sound pressure level](spl.jpg)
+
+### Rear port air velocity
+
 ![Rear port air velocity](rear_port_air_velocity.jpg)
+
+### Group delay
+
 ![Group delay](group_delay.jpg)
+
+### Cone excursion
+
 ![Cone excursion](cone_excursion.jpg)
